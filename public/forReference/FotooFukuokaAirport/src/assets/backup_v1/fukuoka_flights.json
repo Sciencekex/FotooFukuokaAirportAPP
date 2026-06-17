@@ -1,0 +1,2324 @@
+[
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:00",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA240 / AIC8012",
+    "gate": "8",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:00",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL300",
+    "gate": "10",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:00",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ40 / ANA3840",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:00",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY2",
+    "gate": "4",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:05",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1201",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:05",
+    "destination": "奄美大島",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3681",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:10",
+    "destination": "大阪/伊丹",
+    "airlineCode": "ANA",
+    "flightNo": "ANA420",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:10",
+    "destination": "松山",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3591",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:15",
+    "destination": "新潟",
+    "airlineCode": "IBX",
+    "flightNo": "IBX83 / ANA3183",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:15",
+    "destination": "出雲",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3551",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:15",
+    "destination": "那覇/沖縄",
+    "airlineCode": "JTA",
+    "flightNo": "JTA51",
+    "gate": "5",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:20",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3623",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:20",
+    "destination": "小松",
+    "airlineCode": "ORC",
+    "flightNo": "ORC46 / ANA4646",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:20",
+    "destination": "名古屋/中部",
+    "airlineCode": "ORC",
+    "flightNo": "ORC56 / ANA4656",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:25",
+    "destination": "関西",
+    "airlineCode": "APJ",
+    "flightNo": "APJ152",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:25",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL302",
+    "gate": "9",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:30",
+    "destination": "宮崎",
+    "airlineCode": "ORC",
+    "flightNo": "ORC59 / ANA4659",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:45",
+    "destination": "札幌/新千歳",
+    "airlineCode": "FDA",
+    "flightNo": "FDA511 / JAL4471",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:45",
+    "destination": "対馬",
+    "airlineCode": "ORC",
+    "flightNo": "ORC79 / ANA4679",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:50",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA242 / SAS9483",
+    "gate": "7",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:50",
+    "destination": "大阪/伊丹",
+    "airlineCode": "JAL",
+    "flightNo": "JAL2050",
+    "gate": "3",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "07:55",
+    "destination": "名古屋/中部",
+    "airlineCode": "GK",
+    "flightNo": "GK580 / JAL6210",
+    "gate": "1",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:00",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1203",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:00",
+    "destination": "札幌/新千歳",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1277",
+    "gate": "1",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:00",
+    "destination": "成田",
+    "airlineCode": "APJ",
+    "flightNo": "APJ348",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:00",
+    "destination": "信州松本",
+    "airlineCode": "FDA",
+    "flightNo": "FDA200 / JAL4341",
+    "gate": "2",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:00",
+    "destination": "仙台",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ97 / ANA3897",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "08:00",
+    "destination": "ダナン",
+    "airlineCode": "VJ",
+    "flightNo": "VJ2809",
+    "gate": "52A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:05",
+    "destination": "那覇/沖縄",
+    "airlineCode": "SKY",
+    "flightNo": "SKY501",
+    "gate": "4",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:10",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL304",
+    "gate": "10",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "08:15",
+    "destination": "バンコク/ドンムアン",
+    "airlineCode": "FD",
+    "flightNo": "FD237",
+    "gate": "50B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:25",
+    "destination": "福江",
+    "airlineCode": "ANA",
+    "flightNo": "ANA4913",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "08:30",
+    "destination": "清州",
+    "airlineCode": "RF",
+    "flightNo": "RF331",
+    "gate": "52B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:40",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA244 / AZA2810 / DLH4877",
+    "gate": "8",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:50",
+    "destination": "天草",
+    "airlineCode": "AMX",
+    "flightNo": "AMX102 / ANA4302 / JAL3891",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:50",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY4",
+    "gate": "5",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:55",
+    "destination": "名古屋/中部",
+    "airlineCode": "ANA",
+    "flightNo": "ANA434",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "08:55",
+    "destination": "仙台",
+    "airlineCode": "FDA",
+    "flightNo": "FDA531 / JAL4529",
+    "gate": "4",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "08:55",
+    "destination": "プサン",
+    "airlineCode": "7C",
+    "flightNo": "7C1452",
+    "gate": "51B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:00",
+    "destination": "大阪/伊丹",
+    "airlineCode": "IBX",
+    "flightNo": "IBX68 / ANA3168",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:00",
+    "destination": "高知",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3581",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "09:00",
+    "destination": "ソウル/仁川",
+    "airlineCode": "7C",
+    "flightNo": "7C1402",
+    "gate": "51A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:10",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ42 / ANA3842",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:15",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL306",
+    "gate": "9",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:30",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1076",
+    "gate": "7",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "09:30",
+    "destination": "プサン",
+    "airlineCode": "BX",
+    "flightNo": "BX147 / OZ9737",
+    "gate": "52A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:35",
+    "destination": "那覇/沖縄",
+    "airlineCode": "APJ",
+    "flightNo": "APJ281",
+    "gate": "3",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:35",
+    "destination": "那覇/沖縄",
+    "airlineCode": "JTA",
+    "flightNo": "JTA53",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "09:35",
+    "destination": "ソウル/仁川",
+    "airlineCode": "OZ",
+    "flightNo": "OZ131",
+    "gate": "55",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:45",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3625",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "09:45",
+    "destination": "ソウル/仁川",
+    "airlineCode": "LJ",
+    "flightNo": "LJ262",
+    "gate": "50B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:50",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1205 / THA6104",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:55",
+    "destination": "静岡",
+    "airlineCode": "FDA",
+    "flightNo": "FDA142 / JAL4313",
+    "gate": "4",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:55",
+    "destination": "徳島",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3563",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "09:55",
+    "destination": "対馬",
+    "airlineCode": "ORC",
+    "flightNo": "ORC81 / ANA4681",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:00",
+    "destination": "成田",
+    "airlineCode": "APJ",
+    "flightNo": "APJ352",
+    "gate": "5",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:00",
+    "destination": "ソウル/仁川",
+    "airlineCode": "BX",
+    "flightNo": "BX155 / OZ9575",
+    "gate": "52B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:00",
+    "destination": "ホーチミン",
+    "airlineCode": "VN",
+    "flightNo": "VN351 / NH9709 / 503",
+    "gate": "-",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:00",
+    "destination": "ハノイ",
+    "airlineCode": "VN",
+    "flightNo": "VN357 / NH9721 / EY7302",
+    "gate": "-",
+    "baseStatus": "Cancelled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:00",
+    "destination": "シンガポール",
+    "airlineCode": "SQ",
+    "flightNo": "SQ655 / AI8155 / NH6271",
+    "gate": "56",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:05",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL308",
+    "gate": "10",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:10",
+    "destination": "名古屋/中部",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ58 / ANA3858",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:10",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY6",
+    "gate": "2",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:15",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA246",
+    "gate": "8",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:15",
+    "destination": "札幌/新千歳",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1279 / HVN3369",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:15",
+    "destination": "小松",
+    "airlineCode": "ORC",
+    "flightNo": "ORC48 / ANA4648",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:25",
+    "destination": "静岡",
+    "airlineCode": "FDA",
+    "flightNo": "FDA144 / JAL4315",
+    "gate": "3",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:30",
+    "destination": "ソウル/仁川",
+    "airlineCode": "RS",
+    "flightNo": "RS724",
+    "gate": "51B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:30",
+    "destination": "済州",
+    "airlineCode": "TW",
+    "flightNo": "TW228",
+    "gate": "50A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:35",
+    "destination": "ソウル/仁川",
+    "airlineCode": "KE",
+    "flightNo": "KE788 / DL7890 / JL5221 / KL4254 / OM6710 / VS5510",
+    "gate": "54",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:40",
+    "destination": "仙台",
+    "airlineCode": "IBX",
+    "flightNo": "IBX13 / ANA3113",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:50",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA248",
+    "gate": "7",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "10:50",
+    "destination": "大阪/伊丹",
+    "airlineCode": "ANA",
+    "flightNo": "ANA424 / HVN3490",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:55",
+    "destination": "プサン",
+    "airlineCode": "ZE",
+    "flightNo": "ZE942",
+    "gate": "52A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "10:55",
+    "destination": "台北/桃園",
+    "airlineCode": "IT",
+    "flightNo": "IT241",
+    "gate": "50B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:00",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL310",
+    "gate": "9",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:00",
+    "destination": "名古屋/中部",
+    "airlineCode": "GK",
+    "flightNo": "GK582 / JAL6212",
+    "gate": "5",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:00",
+    "destination": "台北/桃園",
+    "airlineCode": "CI",
+    "flightNo": "CI111 / JL5125",
+    "gate": "57",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:00",
+    "destination": "プサン",
+    "airlineCode": "LJ",
+    "flightNo": "LJ292",
+    "gate": "55",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:05",
+    "destination": "小松",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1234",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:05",
+    "destination": "プサン",
+    "airlineCode": "TW",
+    "flightNo": "TW232",
+    "gate": "51A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:10",
+    "destination": "札幌/新千歳",
+    "airlineCode": "APJ",
+    "flightNo": "APJ455",
+    "gate": "4",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:15",
+    "destination": "宮崎",
+    "airlineCode": "ORC",
+    "flightNo": "ORC63 / ANA4663",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:20",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA250",
+    "gate": "10",
+    "baseStatus": "Cancelled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:30",
+    "destination": "札幌/新千歳",
+    "airlineCode": "ADO",
+    "flightNo": "ADO113 / ANA4813",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:30",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1207",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:30",
+    "destination": "ソウル/仁川",
+    "airlineCode": "ZE",
+    "flightNo": "ZE646",
+    "gate": "52B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:35",
+    "destination": "バンコク/スワンナプーム",
+    "airlineCode": "TG",
+    "flightNo": "TG649 / NH5989 / TK8383",
+    "gate": "53",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:45",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3627",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:50",
+    "destination": "札幌/新千歳",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3513",
+    "gate": "12",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:50",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ44 / ANA3844",
+    "gate": "6",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:50",
+    "destination": "プサン",
+    "airlineCode": "BX",
+    "flightNo": "BX141 / OZ9731",
+    "gate": "50A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:55",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL312",
+    "gate": "8",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "11:55",
+    "destination": "松山",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3595",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "11:55",
+    "destination": "上海/浦東",
+    "airlineCode": "9C",
+    "flightNo": "9C6610",
+    "gate": "50B",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:05",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY8",
+    "gate": "5",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:10",
+    "destination": "福江",
+    "airlineCode": "ORC",
+    "flightNo": "ORC95 / ANA4695",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "12:10",
+    "destination": "ソウル/仁川",
+    "airlineCode": "LJ",
+    "flightNo": "LJ274",
+    "gate": "54",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:15",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA252 / UAL7970",
+    "gate": "7",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "12:15",
+    "destination": "ソウル/仁川",
+    "airlineCode": "7C",
+    "flightNo": "7C1404",
+    "gate": "52A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:20",
+    "destination": "石垣",
+    "airlineCode": "APJ",
+    "flightNo": "APJ293",
+    "gate": "4",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:20",
+    "destination": "宮崎",
+    "airlineCode": "ORC",
+    "flightNo": "ORC67 / ANA4667",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "12:20",
+    "destination": "台北/桃園",
+    "airlineCode": "BR",
+    "flightNo": "BR105 / NH5801 / NZ4905 / TG6363",
+    "gate": "56",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:25",
+    "destination": "仙台",
+    "airlineCode": "IBX",
+    "flightNo": "IBX15 / ANA3115",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:30",
+    "destination": "関西",
+    "airlineCode": "APJ",
+    "flightNo": "APJ154",
+    "gate": "3",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "12:30",
+    "destination": "ソウル/仁川",
+    "airlineCode": "TW",
+    "flightNo": "TW202",
+    "gate": "51A",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:35",
+    "destination": "大阪/伊丹",
+    "airlineCode": "IBX",
+    "flightNo": "IBX70 / ANA3170",
+    "gate": "82",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:40",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3629",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:50",
+    "destination": "鹿児島",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3653",
+    "gate": "81",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:50",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ46 / ANA3846",
+    "gate": "11",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:55",
+    "destination": "花巻/いわて",
+    "airlineCode": "FDA",
+    "flightNo": "FDA525 / JAL4525",
+    "gate": "5",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:55",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL314",
+    "gate": "9",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:55",
+    "destination": "那覇/沖縄",
+    "airlineCode": "JTA",
+    "flightNo": "JTA57",
+    "gate": "12",
+    "baseStatus": "Gate Closed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "12:55",
+    "destination": "茨城",
+    "airlineCode": "SKY",
+    "flightNo": "SKY834",
+    "gate": "2",
+    "baseStatus": "Gate Closed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "12:55",
+    "destination": "香港",
+    "airlineCode": "UO",
+    "flightNo": "UO601 / CX5601",
+    "gate": "52B",
+    "baseStatus": "Gate Closed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:00",
+    "destination": "那覇/沖縄",
+    "airlineCode": "SNA",
+    "flightNo": "SNA101 / ANA2501",
+    "gate": "6",
+    "baseStatus": "Check-in Closed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:05",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA254 / ACA6260",
+    "gate": "10",
+    "baseStatus": "Departed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:30",
+    "destination": "成田",
+    "airlineCode": "APJ",
+    "flightNo": "APJ356",
+    "gate": "1",
+    "baseStatus": "Now Boarding"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:30",
+    "destination": "松山",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3601",
+    "gate": "6",
+    "baseStatus": "Final Call"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "13:40",
+    "destination": "ソウル/仁川",
+    "airlineCode": "7C",
+    "flightNo": "7C1472",
+    "gate": "57",
+    "baseStatus": "Now Boarding"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:45",
+    "destination": "屋久島",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3673",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:45",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY12",
+    "gate": "5",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:55",
+    "destination": "信州松本",
+    "airlineCode": "FDA",
+    "flightNo": "FDA204 / JAL4345",
+    "gate": "2",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "13:55",
+    "destination": "那覇/沖縄",
+    "airlineCode": "SKY",
+    "flightNo": "SKY505",
+    "gate": "1",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "13:55",
+    "destination": "上海/浦東",
+    "airlineCode": "MU",
+    "flightNo": "MU518 / JL5625",
+    "gate": "52A",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:00",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL316",
+    "gate": "8",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:00",
+    "destination": "ソウル/仁川",
+    "airlineCode": "BX",
+    "flightNo": "BX157 / OZ9577",
+    "gate": "50A",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:00",
+    "destination": "香港",
+    "airlineCode": "CX",
+    "flightNo": "CX513 / JL7069 / QR3486",
+    "gate": "53",
+    "baseStatus": "Check-in Closed"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:00",
+    "destination": "香港",
+    "airlineCode": "HB",
+    "flightNo": "HB309",
+    "gate": "51A",
+    "baseStatus": "Check-in Closed"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:05",
+    "destination": "対馬",
+    "airlineCode": "ANA",
+    "flightNo": "ANA4935",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:10",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA256 / ACA6264",
+    "gate": "7",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:10",
+    "destination": "那覇/沖縄",
+    "airlineCode": "APJ",
+    "flightNo": "APJ285",
+    "gate": "3",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:10",
+    "destination": "北京首都",
+    "airlineCode": "CA",
+    "flightNo": "CA954 / NH5735",
+    "gate": "-",
+    "baseStatus": "Cancelled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:15",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1211 / EVA3797",
+    "gate": "10",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:15",
+    "destination": "札幌/新千歳",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3515",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:15",
+    "destination": "小松",
+    "airlineCode": "ORC",
+    "flightNo": "ORC50 / ANA4650",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:15",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ48 / ANA3848",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:15",
+    "destination": "台北/桃園",
+    "airlineCode": "JX",
+    "flightNo": "JX841 / EY5166",
+    "gate": "55",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:25",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3633",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:30",
+    "destination": "札幌/新千歳",
+    "airlineCode": "GK",
+    "flightNo": "GK983 / JAL6203",
+    "gate": "1",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:35",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL318",
+    "gate": "9",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:35",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY14",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:40",
+    "destination": "札幌/新千歳",
+    "airlineCode": "SKY",
+    "flightNo": "SKY775",
+    "gate": "5",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:40",
+    "destination": "ソウル/仁川",
+    "airlineCode": "LJ",
+    "flightNo": "LJ264 / KE5076",
+    "gate": "52B",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:45",
+    "destination": "大邱",
+    "airlineCode": "TW",
+    "flightNo": "TW214",
+    "gate": "56",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:50",
+    "destination": "ソウル/仁川",
+    "airlineCode": "KE",
+    "flightNo": "KE792 / DL7802 / JL5273",
+    "gate": "51B",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "14:55",
+    "destination": "名古屋/小牧",
+    "airlineCode": "FDA",
+    "flightNo": "FDA310 / JAL4390",
+    "gate": "2",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "14:55",
+    "destination": "プサン",
+    "airlineCode": "7C",
+    "flightNo": "7C1454",
+    "gate": "54",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:00",
+    "destination": "大阪/伊丹",
+    "airlineCode": "JAL",
+    "flightNo": "JAL2056",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "15:00",
+    "destination": "ソウル/仁川",
+    "airlineCode": "ZE",
+    "flightNo": "ZE648",
+    "gate": "50B",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:05",
+    "destination": "宮崎",
+    "airlineCode": "ANA",
+    "flightNo": "ANA4955",
+    "gate": "82",
+    "baseStatus": "Weather Check"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:05",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY16",
+    "gate": "1",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:10",
+    "destination": "名古屋/中部",
+    "airlineCode": "GK",
+    "flightNo": "GK584 / JAL6214",
+    "gate": "3",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:15",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA258",
+    "gate": "10",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:25",
+    "destination": "仙台",
+    "airlineCode": "FDA",
+    "flightNo": "FDA535 / JAL4531",
+    "gate": "4",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:25",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3635",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "15:35",
+    "destination": "マニラ",
+    "airlineCode": "PR",
+    "flightNo": "PR425 / NH5327",
+    "gate": "-",
+    "baseStatus": "Cancelled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:40",
+    "destination": "成田",
+    "airlineCode": "APJ",
+    "flightNo": "APJ360",
+    "gate": "82",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:55",
+    "destination": "名古屋/中部",
+    "airlineCode": "IBX",
+    "flightNo": "IBX60 / ANA3160",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:55",
+    "destination": "大阪/伊丹",
+    "airlineCode": "JAL",
+    "flightNo": "JAL2058",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:55",
+    "destination": "那覇/沖縄",
+    "airlineCode": "JTA",
+    "flightNo": "JTA61",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:55",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ50 / ANA3850",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "15:55",
+    "destination": "仙台",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ99 / ANA3899",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "15:55",
+    "destination": "上海/浦東",
+    "airlineCode": "CA",
+    "flightNo": "CA916",
+    "gate": "-",
+    "baseStatus": "Cancelled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:00",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL320",
+    "gate": "8",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:00",
+    "destination": "名古屋/中部",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ64 / ANA3864",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:00",
+    "destination": "プサン",
+    "airlineCode": "BX",
+    "flightNo": "BX145 / OZ9735",
+    "gate": "50A",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:00",
+    "destination": "香港",
+    "airlineCode": "HX",
+    "flightNo": "HX641 / EY6806",
+    "gate": "54",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:10",
+    "destination": "高知",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3587",
+    "gate": "5",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:15",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA260",
+    "gate": "7",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:15",
+    "destination": "大阪/伊丹",
+    "airlineCode": "ANA",
+    "flightNo": "ANA426",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:15",
+    "destination": "対馬",
+    "airlineCode": "ANA",
+    "flightNo": "ANA4937",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:15",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY18",
+    "gate": "1",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:15",
+    "destination": "香港",
+    "airlineCode": "UO",
+    "flightNo": "UO669",
+    "gate": "52B",
+    "baseStatus": "Immigration"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:20",
+    "destination": "成田",
+    "airlineCode": "GK",
+    "flightNo": "GK508 / JAL6037 / QFA5920",
+    "gate": "3",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:20",
+    "destination": "コタキナバル",
+    "airlineCode": "AK",
+    "flightNo": "AK1511",
+    "gate": "-",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:25",
+    "destination": "ソウル/仁川",
+    "airlineCode": "OZ",
+    "flightNo": "OZ133 / AC6991 / NH6959 / EY8446 / ET1445 / TK8095",
+    "gate": "53",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:30",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL322",
+    "gate": "9",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:35",
+    "destination": "新潟",
+    "airlineCode": "FDA",
+    "flightNo": "FDA505 / JAL4477",
+    "gate": "1",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:40",
+    "destination": "福江",
+    "airlineCode": "ORC",
+    "flightNo": "ORC97 / ANA4697",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:40",
+    "destination": "香港",
+    "airlineCode": "CX",
+    "flightNo": "CX589 / JL7057 / QR5807",
+    "gate": "55",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:50",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1213 / PAL3140",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:55",
+    "destination": "天草",
+    "airlineCode": "AMX",
+    "flightNo": "AMX106 / ANA4306 / JAL3895",
+    "gate": "81",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "16:55",
+    "destination": "那覇/沖縄",
+    "airlineCode": "APJ",
+    "flightNo": "APJ287",
+    "gate": "4",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "16:55",
+    "destination": "プサン",
+    "airlineCode": "ZE",
+    "flightNo": "ZE944",
+    "gate": "50B",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:00",
+    "destination": "那覇/沖縄",
+    "airlineCode": "SKY",
+    "flightNo": "SKY509",
+    "gate": "2",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "17:00",
+    "destination": "ソウル/仁川",
+    "airlineCode": "RS",
+    "flightNo": "RS728",
+    "gate": "-",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:05",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA262",
+    "gate": "10",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:10",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL324",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:25",
+    "destination": "新潟",
+    "airlineCode": "IBX",
+    "flightNo": "IBX87 / ANA3187",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:30",
+    "destination": "那覇/沖縄",
+    "airlineCode": "JTA",
+    "flightNo": "JTA63",
+    "gate": "8",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "17:30",
+    "destination": "ソウル/仁川",
+    "airlineCode": "TW",
+    "flightNo": "TW206",
+    "gate": "52A",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:35",
+    "destination": "出雲",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3555",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:35",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY20",
+    "gate": "3",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:40",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA264 / THY8429",
+    "gate": "7",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:40",
+    "destination": "松山",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3607",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:45",
+    "destination": "大阪/伊丹",
+    "airlineCode": "ANA",
+    "flightNo": "ANA428 / PAL3134",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:45",
+    "destination": "小松",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1238 / PAL3128",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "17:45",
+    "destination": "那覇/沖縄",
+    "airlineCode": "APJ",
+    "flightNo": "APJ291",
+    "gate": "5",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "17:45",
+    "destination": "ソウル/仁川",
+    "airlineCode": "7C",
+    "flightNo": "7C1406",
+    "gate": "56",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "18:00",
+    "destination": "上海/浦東",
+    "airlineCode": "9C",
+    "flightNo": "9C6538",
+    "gate": "-",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "18:00",
+    "destination": "香港",
+    "airlineCode": "UO",
+    "flightNo": "UO639",
+    "gate": "52B",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "18:15",
+    "destination": "上海/浦東",
+    "airlineCode": "MU",
+    "flightNo": "MU5088 / JL5659",
+    "gate": "50B",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:20",
+    "destination": "関西",
+    "airlineCode": "APJ",
+    "flightNo": "APJ156",
+    "gate": "1",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:20",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL326",
+    "gate": "9",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:20",
+    "destination": "徳島",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3567",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:20",
+    "destination": "宮崎",
+    "airlineCode": "ORC",
+    "flightNo": "ORC69 / ANA4669",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:25",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA266",
+    "gate": "10",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:30",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1215 / AAR9132",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:30",
+    "destination": "対馬",
+    "airlineCode": "ANA",
+    "flightNo": "ANA4939",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:30",
+    "destination": "成田",
+    "airlineCode": "GK",
+    "flightNo": "GK512 / JAL6052 / QFA5925",
+    "gate": "1",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "18:30",
+    "destination": "清州",
+    "airlineCode": "RF",
+    "flightNo": "RF335",
+    "gate": "-",
+    "baseStatus": "Extra Flight"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:35",
+    "destination": "茨城",
+    "airlineCode": "SKY",
+    "flightNo": "SKY836",
+    "gate": "4",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:40",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY22",
+    "gate": "3",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:45",
+    "destination": "仙台",
+    "airlineCode": "IBX",
+    "flightNo": "IBX19 / ANA3119",
+    "gate": "82",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "18:50",
+    "destination": "静岡",
+    "airlineCode": "FDA",
+    "flightNo": "FDA146 / JAL4317",
+    "gate": "5",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "18:55",
+    "destination": "台北/桃園",
+    "airlineCode": "IT",
+    "flightNo": "IT721",
+    "gate": "-",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:00",
+    "destination": "大阪/伊丹",
+    "airlineCode": "JAL",
+    "flightNo": "JAL2060",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:00",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ52 / ANA3852",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:10",
+    "destination": "天草",
+    "airlineCode": "AMX",
+    "flightNo": "AMX108 / ANA4308 / JAL3899",
+    "gate": "81",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:10",
+    "destination": "大阪/伊丹",
+    "airlineCode": "ANA",
+    "flightNo": "ANA430",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:10",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL328",
+    "gate": "8",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:10",
+    "destination": "宮崎",
+    "airlineCode": "JAL",
+    "flightNo": "JAL3639",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:15",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA268",
+    "gate": "7",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:15",
+    "destination": "成田",
+    "airlineCode": "APJ",
+    "flightNo": "APJ364",
+    "gate": "2",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:15",
+    "destination": "名古屋/小牧",
+    "airlineCode": "FDA",
+    "flightNo": "FDA312 / JAL4392",
+    "gate": "1",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:15",
+    "destination": "宮崎",
+    "airlineCode": "ORC",
+    "flightNo": "ORC71 / ANA4671",
+    "gate": "81",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:20",
+    "destination": "成田",
+    "airlineCode": "GK",
+    "flightNo": "GK514 / JAL6054 / QFA5922",
+    "gate": "1",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:20",
+    "destination": "台北/桃園",
+    "airlineCode": "BR",
+    "flightNo": "BR101 / NH5847 / NZ4901 / TG6283 / TK9451",
+    "gate": "53",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:20",
+    "destination": "ソウル/仁川",
+    "airlineCode": "KE",
+    "flightNo": "KE796",
+    "gate": "51A",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:20",
+    "destination": "大邱",
+    "airlineCode": "TW",
+    "flightNo": "TW216",
+    "gate": "52B",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:20",
+    "destination": "清州",
+    "airlineCode": "TW",
+    "flightNo": "TW226",
+    "gate": "50A",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:40",
+    "destination": "ソウル/仁川",
+    "airlineCode": "LJ",
+    "flightNo": "LJ272 / KE5096",
+    "gate": "55",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:50",
+    "destination": "那覇/沖縄",
+    "airlineCode": "ANA",
+    "flightNo": "ANA1217",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:50",
+    "destination": "ソウル/仁川",
+    "airlineCode": "7C",
+    "flightNo": "7C1408",
+    "gate": "50B",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "19:55",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA270 / VOZ7424",
+    "gate": "10",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "19:55",
+    "destination": "プサン",
+    "airlineCode": "BX",
+    "flightNo": "BX143 / OZ9733",
+    "gate": "56",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:00",
+    "destination": "名古屋/小牧",
+    "airlineCode": "FDA",
+    "flightNo": "FDA314 / JAL4394",
+    "gate": "4",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:00",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL330",
+    "gate": "9",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:00",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY24",
+    "gate": "5",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "20:00",
+    "destination": "マニラ",
+    "airlineCode": "5J",
+    "flightNo": "5J923",
+    "gate": "-",
+    "baseStatus": "Cancelled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "20:00",
+    "destination": "プサン",
+    "airlineCode": "TW",
+    "flightNo": "TW236",
+    "gate": "51B",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:10",
+    "destination": "名古屋/中部",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ68 / ANA3868",
+    "gate": "12",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "20:20",
+    "destination": "高雄",
+    "airlineCode": "BR",
+    "flightNo": "BR119 / NH5843",
+    "gate": "54",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "20:30",
+    "destination": "ソウル/仁川",
+    "airlineCode": "TW",
+    "flightNo": "TW208",
+    "gate": "52A",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:35",
+    "destination": "成田",
+    "airlineCode": "APJ",
+    "flightNo": "APJ366",
+    "gate": "2",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "20:35",
+    "destination": "香港",
+    "airlineCode": "UO",
+    "flightNo": "UO695 / CX5695",
+    "gate": "52B",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:40",
+    "destination": "成田",
+    "airlineCode": "GK",
+    "flightNo": "GK528 / JAL6046",
+    "gate": "1",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "20:40",
+    "destination": "ソウル/仁川",
+    "airlineCode": "ZE",
+    "flightNo": "ZE650",
+    "gate": "50A",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:45",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA272",
+    "gate": "7",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "20:50",
+    "destination": "那覇/沖縄",
+    "airlineCode": "JTA",
+    "flightNo": "JTA65",
+    "gate": "6",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "21:00",
+    "destination": "関西",
+    "airlineCode": "APJ",
+    "flightNo": "APJ162",
+    "gate": "6",
+    "baseStatus": "Scheduled"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "21:00",
+    "destination": "東京/羽田",
+    "airlineCode": "JAL",
+    "flightNo": "JAL332",
+    "gate": "11",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "21:00",
+    "destination": "台北/桃園",
+    "airlineCode": "CI",
+    "flightNo": "CI117 / JL5127 / KL4987",
+    "gate": "53",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "21:05",
+    "destination": "東京/羽田",
+    "airlineCode": "SFJ",
+    "flightNo": "SFJ54 / ANA3854",
+    "gate": "5",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "INTERNATIONAL",
+    "scheduled": "21:05",
+    "destination": "ソウル/仁川",
+    "airlineCode": "KE",
+    "flightNo": "KE782 / DL7798 / JL5225 / KL4259 / OM6712 / VS5544",
+    "gate": "51A",
+    "baseStatus": "Code Share"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "21:15",
+    "destination": "東京/羽田",
+    "airlineCode": "ANA",
+    "flightNo": "ANA274 / THA6012",
+    "gate": "8",
+    "baseStatus": "Check-in"
+  },
+  {
+    "type": "DOMESTIC",
+    "scheduled": "21:15",
+    "destination": "東京/羽田",
+    "airlineCode": "SKY",
+    "flightNo": "SKY26",
+    "gate": "3",
+    "baseStatus": "Check-in"
+  }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fukuoka Airport Board</string>
+    <string name="album_overlay_desc">图片过渡层</string>
+    <string name="album_hint">请将图片放入\n/BoardAlbum/ 目录</string>
+</resources>

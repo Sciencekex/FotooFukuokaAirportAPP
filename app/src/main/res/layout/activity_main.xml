@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF000000"
+    android:fitsSystemWindows="false">
+
+    <!-- ===== 左侧：图片轮播区域 (60% = 1440/2400) ===== -->
+    <ImageView
+        android:id="@+id/imageAlbum"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="centerCrop"
+        android:background="#FF1A1A2E"
+        android:src="@android:drawable/ic_menu_gallery"
+        app:layout_constraintWidth_percent="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:contentDescription="@string/album_overlay_desc" />
+
+    <!-- 左侧无图片时的提示文字 -->
+    <TextView
+        android:id="@+id/textAlbumHint"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/album_hint"
+        android:textColor="#88FFFFFF"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:visibility="visible"
+        app:layout_constraintWidth_percent="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <!-- ===== 右侧：WebView 时刻表 (40% = 960/2400) ===== -->
+    <WebView
+        android:id="@+id/webViewSchedule"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#FF0D1B2A"
+        app:layout_constraintWidth_percent="0.4"
+        app:layout_constraintStart_toEndOf="@id/imageAlbum"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <!-- ===== 图片切换过渡遮罩层（用于渐变动画） ===== -->
+    <ImageView
+        android:id="@+id/imageAlbumOverlay"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:alpha="0.0"
+        app:layout_constraintWidth_percent="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:contentDescription="@string/album_overlay_desc" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

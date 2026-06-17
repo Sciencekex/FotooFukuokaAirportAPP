@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- 
+      Viewport: 移除已废弃的 target-densitydpi，使用标准配置
+      WebView 由原生端通过 evaluateJavascript 注入 scale 覆盖来控制实际缩放
+    -->
+    <meta name="viewport" content="width=960, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=no" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <title>Fukuoka Airport Information Board</title>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background: #000;
+        position: fixed;
+        top: 0;
+        left: 0;
+      }
+      body {
+        font-family: 'Courier New', 'MS Gothic', monospace;
+        touch-action: none;
+        -webkit-text-size-adjust: none;
+        text-size-adjust: none;
+      }
+    </style>
+    <!-- 
+      关键：在 Vue 加载前修复 screen 和 dpr，配合 CSS flex-end，
+      让 recalc() 计算出 scale=1.0，FukuokaFIDS 以原始尺寸填满右侧面板
+    -->
+    <script>
+      (function() {
+        var _screen = window.screen;
+        Object.defineProperty(window, 'screen', {
+          get: function() {
+            return Object.create(_screen, {
+              width:  { get: function() { return 2400; } },
+              height: { get: function() { return 1080; } },
+            });
+          },
+          configurable: true
+        });
+        Object.defineProperty(window, 'devicePixelRatio', {
+          get: function() { return 1; },
+          configurable: true
+        });
+      })();
+    </script>
+    <!-- 靠右对齐，只显示右侧 FukuokaFIDS 面板 -->
+    <style>
+      .app-root { justify-content: flex-end !important; }
+    </style>
+    <script type="module" crossorigin src="./assets/index-CW0Ok1bp.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BWOv5dry.css">
+  </head>
+  <body>
+    <div id="app"></div>
+
+  </body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 全屏沉浸式主题，继承 AppCompat，兼容所有API等级 -->
+    <style name="Theme.FotooFukuokaAirportAPP" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- 禁用 MIUI/HyperOS 强制深色模式，防止 WebView 内容被二次反色 -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+</resources>
